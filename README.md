@@ -1,4 +1,5 @@
 # jisaku-projects
+"jisaku" (自作, a Japanese word) means creating something by oneself.
 
 | Project | Language |
 | ---- | ---- |
